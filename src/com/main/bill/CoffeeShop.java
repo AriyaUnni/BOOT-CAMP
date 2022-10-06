@@ -65,7 +65,7 @@ public class CoffeeShop {
 
                 case 1:
                     System.out.println("enter the choice");
-                    System.out.println("\n\n1.Tea " + food.getTea());
+                    System.out.println("1.Tea " + food.getTea());
                     System.out.println("2.juice " + food.getJuice());
                     System.out.println("3.cake " + food.getCake());
                     System.out.println("4.Sweet Porotta " + food.getSweetPorotta());
@@ -128,7 +128,7 @@ public class CoffeeShop {
 
                 case 2:
 
-                    System.out.println("\n\n\n1.Tea " + takeaway.getTea());
+                    System.out.println("1.Tea " + takeaway.getTea());
                     System.out.println("2.juice " + takeaway.getJuice());
                     System.out.println("3.cake " + takeaway.getCake());
                     System.out.println("4.Sweet Porotta " + takeaway.getSweetPorotta());
